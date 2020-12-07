@@ -1,0 +1,1 @@
+function hoge(value = "test") {}
